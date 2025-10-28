@@ -8,11 +8,18 @@ This repository contains a selected excerpt from the TSMLA™ Technical Manual, 
 
 > **Note:** The full manual includes additional sections and logic layers not represented in this excerpt. Access to the complete document is available upon request under NDA.
 
+> **Note:** The table below reflects the *public excerpt* from Technical Manual v1.0.  
+> For the complete and updated structure (v1.2, including Addendum A), see the  
+> [TSMLA™ Technical Manual – Table of Contents v1.2 (PDF)](TSMLA_TOC_v1.2Technical_Manual_.pdf).
+
 ---
 
 ## Available in this Repo
 
 - `TOC.md`: Public Table of Contents (as of Technical Manual v1.0)
+- [TSMLA™ Technical Manual – Table of Contents v1.2](TSMLA_TOC_v1.2Technical_Manual_.pdf)  
+  Reflects preservation of canonical Sections 1–9 and integration of Addendum A: Substrate Architecture & Licensing Framework.
+
 - `README.md`: System overview and disclosure framing
 
 ---
